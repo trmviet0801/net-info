@@ -2,7 +2,7 @@ import ExpoModulesCore
 import Network
 import SystemConfiguration.CaptiveNetwork
 
-public class NetinfoModule: Module {
+public class NetInfoModule: Module {
   private let monitor = NWPathMonitor()
   private let queue = DispatchQueue(label: "NetinfoMonitor")
 
