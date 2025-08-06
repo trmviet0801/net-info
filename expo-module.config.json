@@ -1,4 +1,5 @@
 {
+  "name": "NetInfo",
   "platforms": ["apple", "android", "web"],
   "apple": {
     "modules": ["NetInfoModule"]
